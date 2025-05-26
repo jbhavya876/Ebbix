@@ -1,0 +1,7 @@
+# .gitignore
+node_modules/
+build/
+artifacts/
+.cache/
+*.log
+.env
